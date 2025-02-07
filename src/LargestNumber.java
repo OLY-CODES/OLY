@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
     public class LargestNumber {
@@ -19,3 +20,9 @@ import java.util.Scanner;
     }
 
 
+=======
+package PACKAGE_NAME;
+
+public class LargestNumber {
+}
+>>>>>>> d9fba785e99eb03082ba78640c92d5e1d27da26f

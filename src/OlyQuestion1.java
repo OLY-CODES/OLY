@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class OlyQuestion1 {
   static int x = 20;
 
@@ -15,3 +16,9 @@ public class OlyQuestion1 {
 
 
 
+=======
+package PACKAGE_NAME;
+
+public class OlyQuestion1 {
+}
+>>>>>>> d9fba785e99eb03082ba78640c92d5e1d27da26f
