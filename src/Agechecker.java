@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class Agechecker {
     public static void main(String[] args) {
         int age = 19;
@@ -8,3 +9,9 @@ public class Agechecker {
         }
     }
 }
+=======
+package PACKAGE_NAME;
+
+public class Agechecker {
+}
+>>>>>>> d9fba785e99eb03082ba78640c92d5e1d27da26f
